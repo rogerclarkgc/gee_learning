@@ -32,7 +32,7 @@ GEE也有本地化的基于Docker的运行环境，提供Python2.7下的API，�
 
 5. SSTAP
 
-	这个软件用于辅助Shadowsocks客户端，它能将SS虚拟一张网卡，让电脑通过这个网卡上网，从而拦截所有网络请求，真正达到全局翻墙。让拉取Docker镜像的过程畅通无阻
+	这个软件用于辅助Shadowsocks客户端，它能将SS虚拟一张网卡，让电脑通过这个网卡上网，从而拦截所有网络请求，真正达到全局梯子。让拉取Docker镜像的过程畅通无阻
 
 	[下载](https://www.sockscap64.com/zh-hant/sstap/)
 
@@ -45,8 +45,6 @@ GEE也有本地化的基于Docker的运行环境，提供Python2.7下的API，�
 7. （备选）SS客户端
 
 	用于提供网页下的SS连接环境，在不想全局浏览时使用。
-
-	[下载](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
 ## 第一步：建立SS服务端
 
